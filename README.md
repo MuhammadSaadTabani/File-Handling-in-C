@@ -5,16 +5,27 @@ There are 3 examples for file handling.
 Write a C program to write all the members of an array of structures to a file using fwrite(). Read the array from the file and display on the screen.
 
 Example :
+
 Enter employee name:
+
 Enter id:
+
 Enter position:
+
 Enter salary:
+
 Enter date of join:
+
 Enter address:
+
 Output:
+
 Content in file is:
+
 ID  	NAME		Position	    salary		date of join	address 
+
 1	    Junaid	manager       40000		  5-5-2011	    Karachi 
+
 2	    Tahir		developer     28000 	  4-3-2014      isb
 
  
